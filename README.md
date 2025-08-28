@@ -1,5 +1,12 @@
 # NeuroKey
 
+## Team members:
+George Huang - Documenter/Coder
+Alan Huang - Coder
+James Stacey- Driver/builder
+Noah Gonzalez- Builder
+
+
 ## Robot name: Typo
 
 ## Mission: Robot that can move freely and able to reach and type on each key on a standard full size keyboard.
