@@ -15,3 +15,6 @@ Goal is to type a whole sentance with robotic finger. Size is around a foot tall
 ## Images:
 ### Chassis Build Plan:
 ![A description of the image](images/IMG_6245.jpeg)
+### Source code
+![A description of the image](images/image.png)
+
