@@ -16,6 +16,7 @@ Goal is to type a whole sentance with robotic finger. Size is around a foot tall
 ## Parts List
 
 2 Aluminium C-Bars, 25 units
+
 2 Aluminum C-Bars, 20 units
 2 Aluminum C-Bars, 15 units
 2 V5 Motors
