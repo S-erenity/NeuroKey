@@ -1,9 +1,9 @@
 # NeuroKey
 
 ## Team members:
-George Huang - Documenter/Coder
-Alan Huang - Coder
-James Stacey- Driver/builder
+George Huang - Documenter/Coder,
+Alan Huang - Coder,
+James Stacey- Driver/builder,
 Noah Gonzalez- Builder
 
 
@@ -17,7 +17,7 @@ Goal is to type a whole sentance with robotic finger. Size is around a foot tall
 
 2 Aluminium C-Bars, 25 units
 
-2 Aluminum C-Bars, 20 units
+4 Aluminum C-Bars, 20 units
 
 2 Aluminum C-Bars, 15 units
 
