@@ -17,7 +17,7 @@ Goal is to type a whole sentance with robotic finger. Size is around a foot tall
 
 2 Aluminium C-Bars, 25 units
 
-4 Aluminum C-Bars, 20 units
+5 Aluminum C-Bars, 20 units
 
 2 Aluminum C-Bars, 15 units
 
