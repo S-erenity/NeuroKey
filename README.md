@@ -10,7 +10,7 @@
 - **George Huang** – Documenter / Coder  
 - **James Stacey** – Driver / Builder  
 - **Noah Gonzalez** – Builder
-- - **Alan Huang** – Coder 
+- **Alan Huang** – Coder 
 
 ---
 
