@@ -8,9 +8,9 @@
 
 ## Team Members
 - **George Huang** – Documenter / Coder  
-- **Alan Huang** – Coder  
 - **James Stacey** – Driver / Builder  
-- **Noah Gonzalez** – Builder  
+- **Noah Gonzalez** – Builder
+- - **Alan Huang** – Coder 
 
 ---
 
@@ -24,6 +24,9 @@ NeuroKey is a robot designed to:
 - 🔵 Move freely across a surface.  
 - 🟣 Accurately reach and press keys on a **standard full-size keyboard**.  
 - 🟠 Type out a complete sentence using a robotic finger.  
+
+NeuroKey’s mission is to create a compact, mobile robot capable of accurately interacting with a standard full-size keyboard.
+Designed at a height of ~1 foot with a rectangular chassis and precision finger mechanism, the robot can navigate across surfaces and press keys with accuracy. Its current operation is human-controlled, but the long-term vision is to develop full automation with intelligent movement and typing functions (maybe even AI integration).
 
 **Robot Specs**  
 - Height: ~1 foot  
@@ -47,18 +50,16 @@ NeuroKey is a robot designed to:
 ```
 🖼️ Images
 
-🔧 Chassis Build Plan
+# Chassis Build Plan
 ![Chassis Build Plan](images/IMG_6245.jpeg)
-💻 Source Code
+# Source Code
 ![Source Code](images/image.png)
 
 
-##  Updates
+## Updates
 ```ansi
 <details>
-  <summary>Click to expand update log</summary>
-
-- **2025-09-16** – Initial README created  
+- **2025-09-** – Initial README created  
 - **2025-09-20** – Chassis assembled, testing mobility  
 - **2025-09-25** – Integrated typing mechanism prototype  
 - **2025-09-30** – Started coding motor control system  
