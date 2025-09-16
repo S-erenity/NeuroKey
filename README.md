@@ -45,4 +45,16 @@ NeuroKey is a robot designed to:
 [33m1 × Tank Tread Upgrade Kit[0m
 + Axles, Gears, Power Cables, Clips, Hex Nuts, Retainers
 
+## 📝 Updates
+
+<details>
+  <summary>Click to expand update log</summary>
+
+- **2025-09-16** – Initial README created  
+- **2025-09-20** – Chassis assembled, testing mobility  
+- **2025-09-25** – Integrated typing mechanism prototype  
+- **2025-09-30** – Started coding motor control system  
+- **2025-10-05** – Planned next step: add sensor integration  
+
+</details>
 
