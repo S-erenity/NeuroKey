@@ -43,7 +43,6 @@ Designed at a height of ~1 foot with a rectangular chassis and precision finger 
 - 1 × VEX V5 Controller  
 - 1 × Tank Tread Upgrade Kit  
 - Axles, Gears, Power Cables, Clips, Hex Nuts, Retainers  
-
 ```
 ## Images
 
@@ -64,23 +63,4 @@ Designed at a height of ~1 foot with a rectangular chassis and precision finger 
 
 </details>
 
-```
-## Images
-
-# Chassis Build Plan:
-![Chassis Build Plan](images/IMG_6245.jpeg)
-# Source Code:
-![Source Code](images/image.png)
-
-
-## Updates log
-```ansi
-<details>
-- **2025-09-** – Initial README created  
-- **2025-09-20** – Chassis assembled, testing mobility  
-- **2025-09-25** – Integrated typing mechanism prototype  
-- **2025-09-30** – Started coding motor control system  
-- **2025-10-05** – Planned next step: add sensor integration  
-
-</details>
 
