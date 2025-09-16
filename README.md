@@ -1,4 +1,4 @@
-# NeuroKey
+# 🧠 NeuroKey
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-blue)
 ![Team](https://img.shields.io/badge/Team-4%20Members-purple)
@@ -34,23 +34,13 @@ NeuroKey is a robot designed to:
 ---
 
 ## Parts List
-- 2 × 25-unit Aluminum C-Bars  
-- 5 × 20-unit Aluminum C-Bars  
-- 2 × 15-unit Aluminum C-Bars  
-- 2 × V5 Motors  
-- 1 × V5 Robot Brain  
-- 1 × V5 Robot Battery  
-- 1 × VEX V5 Controller  
-- 1 × Tank Tread Upgrade Kit  
-- Axles, Gears, Power Cables, Clips, Hex Nuts, Retainers  
-
----
-
-## Images
-
-### Chassis Build Plan
-![Chassis Build Plan](images/IMG_6245.jpeg)
-
-### Source Code
-![Source Code](images/image.png)
-
+```ansi
+[34m2 × 25-unit Aluminum C-Bars[0m
+[35m5 × 20-unit Aluminum C-Bars[0m
+[34m2 × 15-unit Aluminum C-Bars[0m
+[36m2 × V5 Motors[0m
+[33m1 × V5 Robot Brain[0m
+[36m1 × V5 Robot Battery[0m
+[35m1 × VEX V5 Controller[0m
+[33m1 × Tank Tread Upgrade Kit[0m
++ Axles, Gears, Power Cables, Clips, Hex Nuts, Retainers
