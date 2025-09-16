@@ -21,9 +21,9 @@
 
 ## Mission
 NeuroKey is a robot designed to:  
-- 🔵 Move freely across a surface.  
-- 🟣 Accurately reach and press keys on a **standard full-size keyboard**.  
-- 🟠 Type out a complete sentence using a robotic finger.  
+- Move freely across a surface.  
+- Accurately reach and press keys on a **standard full-size keyboard**.  
+- Type out a complete sentence using a robotic finger.  
 
 NeuroKey’s mission is to create a compact, mobile robot capable of accurately interacting with a standard full-size keyboard.
 Designed at a height of ~1 foot with a rectangular chassis and precision finger mechanism, the robot can navigate across surfaces and press keys with accuracy. Its current operation is human-controlled, but the long-term vision is to develop full automation with intelligent movement and typing functions (maybe even AI integration).
@@ -48,7 +48,7 @@ Designed at a height of ~1 foot with a rectangular chassis and precision finger 
 [33m1 × Tank Tread Upgrade Kit[0m
 + Axles, Gears, Power Cables, Clips, Hex Nuts, Retainers
 ```
-🖼️ Images
+## Images
 
 # Chassis Build Plan
 ![Chassis Build Plan](images/IMG_6245.jpeg)
