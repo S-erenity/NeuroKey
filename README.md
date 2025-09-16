@@ -1,4 +1,4 @@
-# 🧠 NeuroKey
+# NeuroKey
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-blue)
 ![Team](https://img.shields.io/badge/Team-4%20Members-purple)
@@ -6,7 +6,7 @@
 
 ---
 
-## 👥 Team Members
+## Team Members
 - **George Huang** – Documenter / Coder  
 - **Alan Huang** – Coder  
 - **James Stacey** – Driver / Builder  
@@ -14,12 +14,12 @@
 
 ---
 
-## 🤖 Robot Name
+## Robot Name
 **Typo**
 
 ---
 
-## 🎯 Mission
+## Mission
 NeuroKey is a robot designed to:  
 - 🔵 Move freely across a surface.  
 - 🟣 Accurately reach and press keys on a **standard full-size keyboard**.  
@@ -33,7 +33,7 @@ NeuroKey is a robot designed to:
 
 ---
 
-## 🛠️ Parts List
+## Parts List
 ```ansi
 [34m2 × 25-unit Aluminum C-Bars[0m
 [35m5 × 20-unit Aluminum C-Bars[0m
