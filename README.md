@@ -33,15 +33,17 @@ Designed at a height of ~1 foot with a rectangular chassis and precision finger 
 
 ## Parts List
 ```ansi
-2 × 25-unit Aluminum C-Bars
-5 × 20-unit Aluminum C-Bars
-2 × 15-unit Aluminum C-Bars
-2 × V5 Motors
-1 × V5 Robot Brain
-1 × V5 Robot Battery
-1 × VEX V5 Controller
-1 × Tank Tread Upgrade Kit
-+ Axles, Gears, Power Cables, Clips, Hex Nuts, Retainers
+## Parts List
+- 2 × 25-unit Aluminum C-Bars  
+- 5 × 20-unit Aluminum C-Bars  
+- 2 × 15-unit Aluminum C-Bars  
+- 2 × V5 Motors  
+- 1 × V5 Robot Brain  
+- 1 × V5 Robot Battery  
+- 1 × VEX V5 Controller  
+- 1 × Tank Tread Upgrade Kit  
+- Axles, Gears, Power Cables, Clips, Hex Nuts, Retainers  
+
 ```
 ## Images
 
