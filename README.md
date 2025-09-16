@@ -50,13 +50,13 @@ Designed at a height of ~1 foot with a rectangular chassis and precision finger 
 ```
 ## Images
 
-# Chassis Build Plan
+# Chassis Build Plan:
 ![Chassis Build Plan](images/IMG_6245.jpeg)
-# Source Code
+# Source Code:
 ![Source Code](images/image.png)
 
 
-## Updates
+## Updates log
 ```ansi
 <details>
 - **2025-09-** – Initial README created  
