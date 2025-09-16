@@ -48,9 +48,9 @@ NeuroKey is a robot designed to:
 
 ## Images
 
-### 🔧 Chassis Build Plan
+### Chassis Build Plan
 ![Chassis Build Plan](images/IMG_6245.jpeg)
 
-### 💻 Source Code
+### Source Code
 ![Source Code](images/image.png)
 
