@@ -10,17 +10,12 @@
 - **George Huang** – Documenter / Coder  
 - **James Stacey** – Driver / Builder  
 - **Noah Gonzalez** – Builder
-- **Alan Huang** – Coder 
-
----
-
-## Robot Name
-# **Typo**
+- **Alan Huang** – Coder
 
 ---
 
 ## Mission
-NeuroKey is a robot designed to:  
+Typo is a robot designed to:  
 - Move freely across a surface.  
 - Accurately reach and press keys on a **standard full-size keyboard**.  
 - Type out a complete sentence using a robotic finger.  
