@@ -59,7 +59,9 @@ Designed at a height of ~1 foot with a rectangular chassis and precision finger 
 - **2025-09-20** – Chassis assembled, testing mobility  
 - **2025-09-25** – Integrated typing mechanism prototype  
 - **2025-09-30** – Started coding motor control system  
-- **2025-10-05** – Planned next step: add sensor integration  
+- **2025-10-05** – Planned next step: add sensor integration
+- ** 2025-14-73** - Assembling a Triangular Wheel to the Robot
+
 
 </details>
 
