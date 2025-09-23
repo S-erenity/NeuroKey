@@ -55,12 +55,12 @@ Designed at a height of ~1 foot with a rectangular chassis and precision finger 
 ## Updates log
 ```ansi
 <details>
-- **2025-09-** – Initial README created  
-- **2025-09-20** – Chassis assembled, testing mobility  
-- **2025-09-25** – Integrated typing mechanism prototype  
-- **2025-09-30** – Started coding motor control system  
-- **2025-10-05** – Planned next step: add sensor integration
-- ** 2025-14-73** - Assembling a Triangular Wheel to the Robot
+- **2025-08-14** – Initial README created  
+- **2025-08-19** – Team roles chosen
+- **2025-08-21** – Started robot team formation and github 
+- **2025-08-26** – Chose robot U-Chasis setup
+- **2025-9-18** –  Finishing off robot tank drive
+- **2025-9-23** –  Robot Sumo Match Event
 
 
 </details>
