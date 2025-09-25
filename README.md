@@ -47,7 +47,7 @@ Parts List
 # Images
 ---
 ## Chassis Build Plan Rough Draft:
-![Chassis Build Plan](images/IMG_6245.jpeg)
+<img src="images/IMG_6245.jpeg" alt="Chassis Build Plan" style="border: 3px solid black; border-radius: 6px; padding: 4px;" />
 
 ---
 
