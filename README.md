@@ -59,4 +59,4 @@ Updates log:
 - 2025-08-26 – Came to the consensus for a U-shaped Chasis for Typo and Tank Drive for our drive mode
 - 2025-9-18 –  Finished coding robot tank drive and finished assembly
 - 2025-9-23 –  Robot Sumo Match Event (discovered potental flaws and problems)
-- 2025-9-25 - Fixed issues on Typo (improved traction/motors)
+- 2025-9-25 - Fixed mobility issues on Typo (increase wheel size)
