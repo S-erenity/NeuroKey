@@ -6,7 +6,7 @@
 
 ---
 
-## Team Members
+# Team Members
 - **George Huang** – Documenter / Assistant programmer
 - **James Stacey** – Driver / Builder  
 - **Noah Gonzalez** – Builder
@@ -14,7 +14,7 @@
 
 ---
 
-## Mission
+# Mission
 Typo is a robot designed to:  
 - Move freely across a surface.  
 - Accurately reach and press keys on a **standard full-size keyboard**.  
@@ -49,7 +49,7 @@ Parts List
 ## Chassis Build Plan Rough Draft:
 ![Chassis Build Plan](images/IMG_6245.jpeg)
 
-## Updates log
+# Updates log
 ```ansi
 - 2025-08-14 – Initial README created 
 - 2025-08-19 – Team formation and team roles assigned
