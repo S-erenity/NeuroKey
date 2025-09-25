@@ -48,7 +48,7 @@ Parts List
 ---
 | ![Chassis Build Plan](images/IMG_6245.jpeg) |
 |:--:|
-| Chassis Build Plan |
+| ### **Chassis Build Plan** |
 ---
 
 Updates log
