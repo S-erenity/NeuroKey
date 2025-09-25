@@ -6,7 +6,7 @@
 
 ---
 
-# Team Members
+# Team Members:
 - **George Huang** – Documenter / Assistant programmer
 - **James Stacey** – Driver / Builder  
 - **Noah Gonzalez** – Builder
@@ -14,7 +14,7 @@
 
 ---
 
-# Mission
+# Mission:
 Typo is a robot designed to:  
 - Move freely across a surface.  
 - Accurately reach and press keys on a **standard full-size keyboard**.  
@@ -23,7 +23,7 @@ Typo is a robot designed to:
 NeuroKey’s mission is to create a compact, mobile robot capable of accurately interacting with a standard full-size keyboard.
 Designed at a height of ~1 foot with a rectangular chassis and precision finger mechanism, the robot can navigate across surfaces and press keys with accuracy. Its current operation is human-controlled, but the long-term vision is to develop full automation with intelligent movement and typing functions (maybe even AI integration).
 
-**Robot Specs**  
+**Robot Specs:**  
 - Height: ~1 foot  
 - Base: Rectangular frame  
 - Design: Vertical pole with finger mechanism for precision typing  
@@ -31,7 +31,7 @@ Designed at a height of ~1 foot with a rectangular chassis and precision finger 
 
 ---
 
-Parts List
+Parts List:
 ```ansi
 Parts List
 - 2 × 25-unit Aluminum C-Bars  
@@ -44,14 +44,14 @@ Parts List
 - 1 × Tank Tread Upgrade Kit  
 - Axles, Gears, Power Cables, Clips, Hex Nuts, Retainers  
 ```
-# Images
+# Images:
 ---
 | <kbd><img src="images/IMG_6245.jpeg" alt="Chassis Build Plan" width="400"></kbd> |
 |:--:|
 | **Chassis Build Plan** |
 ---
 
-Updates log
+Updates log:
 ```ansi
 - 2025-08-14 – Github repository created. Orientation day.
 - 2025-08-19 – Team formation and team roles assigned (decided on purpose of our bot and nickname 'Typo')
