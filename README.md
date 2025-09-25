@@ -44,9 +44,9 @@ Parts List
 - 1 × Tank Tread Upgrade Kit  
 - Axles, Gears, Power Cables, Clips, Hex Nuts, Retainers  
 ```
-## Images
+# Images
 
-# Chassis Build Plan Rough Draft:
+## Chassis Build Plan Rough Draft:
 ![Chassis Build Plan](images/IMG_6245.jpeg)
 
 ## Updates log
