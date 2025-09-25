@@ -33,7 +33,7 @@ Designed at a height of ~1 foot with a rectangular chassis and precision finger 
 
 Parts List
 ```ansi
-## Parts List
+Parts List
 - 2 × 25-unit Aluminum C-Bars  
 - 5 × 20-unit Aluminum C-Bars  
 - 2 × 15-unit Aluminum C-Bars  
