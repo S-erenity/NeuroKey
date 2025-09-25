@@ -54,11 +54,12 @@ Parts List
 
 ## Updates log
 ```ansi
-- 2025-08-14 – Initial README created  
-- 2025-08-19 – Team roles chosen
-- 2025-08-21 – Started robot team formation and github 
-- 2025-08-26 – Chose robot U-Chasis setup
-- 2025-9-18 –  Finishing off robot tank drive
+- 2025-08-14 – Initial README created 
+- 2025-08-19 – Team formation and team roles assigned
+- 2025-08-21 – Design process for our bot
+- 2025-08-26 – Came to the consensu to use a U-Chasis for our bot
+- 2025-9-18 –  Finished coding robot tank drive and started assembly
 - 2025-9-23 –  Robot Sumo Match Event
+- 2025-9-25 - Fixing issues on our bot (improved traction/motors)
 
 
