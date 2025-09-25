@@ -46,11 +46,8 @@ Parts List
 ```
 ## Images
 
-# Chassis Build Plan:
+# Chassis Build Plan Rough Draft:
 ![Chassis Build Plan](images/IMG_6245.jpeg)
-# Source Code:
-![Source Code](images/image.png)
-
 
 ## Updates log
 ```ansi
