@@ -46,7 +46,7 @@ Parts List
 ```
 # Images
 ---
-| ![Chassis Build Plan](images/IMG_6245.jpeg) |
+| <kbd><img src="images/IMG_6245.jpeg" alt="Chassis Build Plan" width="400"></kbd> |
 |:--:|
 | ### **Chassis Build Plan** |
 ---
