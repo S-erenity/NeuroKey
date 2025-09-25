@@ -54,15 +54,11 @@ Parts List
 
 ## Updates log
 ```ansi
-<details>
 - **2025-08-14** – Initial README created  
 - **2025-08-19** – Team roles chosen
 - **2025-08-21** – Started robot team formation and github 
 - **2025-08-26** – Chose robot U-Chasis setup
 - **2025-9-18** –  Finishing off robot tank drive
 - **2025-9-23** –  Robot Sumo Match Event
-
-
-</details>
 
 
