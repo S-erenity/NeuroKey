@@ -45,7 +45,7 @@ Parts List
 - Axles, Gears, Power Cables, Clips, Hex Nuts, Retainers  
 ```
 # Images
-
+---
 ## Chassis Build Plan Rough Draft:
 ![Chassis Build Plan](images/IMG_6245.jpeg)
 
