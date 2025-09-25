@@ -49,7 +49,9 @@ Parts List
 ## Chassis Build Plan Rough Draft:
 ![Chassis Build Plan](images/IMG_6245.jpeg)
 
-# Updates log
+---
+
+Updates log
 ```ansi
 - 2025-08-14 – Github repository created. Orientation day.
 - 2025-08-19 – Team formation and team roles assigned (decided on purpose of our bot and nickname 'Typo')
