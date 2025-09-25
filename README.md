@@ -54,7 +54,7 @@ Parts List
 - 2025-08-14 – Github repository created. Orientation day.
 - 2025-08-19 – Team formation and team roles assigned (decided on purpose of our bot and nickname 'Typo')
 - 2025-08-21 – Design process started (started working on code)
-- 2025-08-26 – Came to the consensu to use a U-Chasis for Typo
+- 2025-08-26 – Came to the consensus for a U-shaped Chasis for Typo and Tank Drive for our drive mode
 - 2025-9-18 –  Finished coding robot tank drive and finished assembly
 - 2025-9-23 –  Robot Sumo Match Event (discovered potental flaws and problems)
 - 2025-9-25 - Fixed issues on Typo (improved traction/motors)
