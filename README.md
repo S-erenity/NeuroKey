@@ -60,4 +60,4 @@ Updates log:
 - 2025-9-18 –  Finished coding robot tank drive and finished assembly
 - 2025-9-23 –  Robot Sumo Match Event (discovered potental flaws and problems)
 - 2025-9-25 - Fixed mobility issues on Typo (increase wheel size)
-- 2025-9-26 - Day 2 of Fixing mobility issues
+- 2025-9-26 - Day two of Fixing mobility issues
