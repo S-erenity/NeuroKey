@@ -30,7 +30,7 @@ Designed at a height of ~1 foot with a rectangular chassis and precision finger 
 
 ---
 
-Parts List:
+**Parts List:**
 ```ansi
 Parts List
 - 2 × 25-unit Aluminum C-Bars  
@@ -50,7 +50,7 @@ Parts List
 | **Chassis Build Plan** |
 ---
 
-Updates log:
+**Updates log:**
 ```ansi
 - 2025-08-14 – Github repository created. Orientation day.
 - 2025-08-19 – Team formation and team roles assigned (decided on purpose of our bot and nickname 'Typo').
