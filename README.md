@@ -62,8 +62,7 @@ Updates log:
 - 2025-9-26 - Day two of Fixing mobility issues
 - 2025-10/7 - Creating Autononomus Mode for robot.
 
----
-# Ratings log:
+ # Ratings log:
 ``` ansi
 - **George Huang** || Documenter / Assistant programmer
 - **James Stacey** || Driver / Builder
