@@ -7,10 +7,10 @@
 ---
 
 # Team Members:
-- **George Huang** – Documenter / Assistant programmer
-- **James Stacey** – Driver / Builder
-- **Noah Gonzalez** – Builder
-- **Alan Huang** – Coder
+- **George Huang** – Documenter / Assistant programmer    1/620
+- **James Stacey** – Driver / Builder    1/620 
+- **Noah Gonzalez** – Builder    1/620
+- **Alan Huang** – Coder    1/620
 
 ---
 
