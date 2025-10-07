@@ -1,5 +1,5 @@
 
-<h1 align="center">🧠 NeuroKey</h1>
+<h1 align="center">NeuroKey</h1>
 
 <div align="center">
 
