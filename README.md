@@ -1,3 +1,4 @@
+
 # 🧠 NeuroKey
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-blue)
@@ -60,4 +61,4 @@ Parts List
 - 2025-9-23 –  Robot Sumo Match Event (discovered potental flaws and problems).
 - 2025-9-25 - Fixed mobility issues on Typo (increase wheel size).
 - 2025-9-26 - Day two of fixing mobility issues.
-- 2025-10-7 - Started working on an autonomus driving mode for Typo.
+- 2025-10-7 - Started working on an autonomus driving mode for Typo. Increased motor RPM from 200 to 600.
