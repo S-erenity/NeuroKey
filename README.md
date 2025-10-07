@@ -65,7 +65,7 @@ Updates log:
 ---
 Ratings log:
 ``` ansi
-**George Huang** || Documenter / Assistant programmer
-**James Stacey** || Driver / Builder
-**Noah Gonzalez** || Builder
-**Alan Huang** || Coder
+- **George Huang** || Documenter / Assistant programmer
+- **James Stacey** || Driver / Builder
+- **Noah Gonzalez** || Builder
+- **Alan Huang** || Coder
