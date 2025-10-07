@@ -53,11 +53,11 @@ Parts List
 Updates log:
 ```ansi
 - 2025-08-14 – Github repository created. Orientation day.
-- 2025-08-19 – Team formation and team roles assigned (decided on purpose of our bot and nickname 'Typo')
-- 2025-08-21 – Design process started (started working on code)
-- 2025-08-26 – Came to the consensus for a U-shaped Chasis for Typo and Tank Drive for our drive mode
-- 2025-9-18 –  Finished coding robot tank drive and finished assembly
-- 2025-9-23 –  Robot Sumo Match Event (discovered potental flaws and problems)
-- 2025-9-25 - Fixed mobility issues on Typo (increase wheel size)
-- 2025-9-26 - Day two of Fixing mobility issues
-- 2025-10/7 - Creating Autononomus Mode for robot.
+- 2025-08-19 – Team formation and team roles assigned (decided on purpose of our bot and nickname 'Typo').
+- 2025-08-21 – Design process started (started working on code).
+- 2025-08-26 – Came to the consensus for a U-shaped Chasis for Typo and Tank Drive for our drive mode.
+- 2025-9-18 –  Finished coding robot tank drive and finished assembly.
+- 2025-9-23 –  Robot Sumo Match Event (discovered potental flaws and problems).
+- 2025-9-25 - Fixed mobility issues on Typo (increase wheel size).
+- 2025-9-26 - Day two of fixing mobility issues.
+- 2025-10-7 - Started working on an autonomus driving mode for Typo.
