@@ -1,9 +1,14 @@
 
-<h1 align="center"> NeuroKey</h1>
+<h1 align="center">🧠 NeuroKey</h1>
+
+<div align="center">
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-blue)
 ![Team](https://img.shields.io/badge/Team-4%20Members-purple)
 ![Robot](https://img.shields.io/badge/Robot-Typo-orange)
+
+</div>
+
 
 ---
 
