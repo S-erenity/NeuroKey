@@ -61,3 +61,4 @@ Updates log:
 - 2025-9-23 –  Robot Sumo Match Event (discovered potental flaws and problems)
 - 2025-9-25 - Fixed mobility issues on Typo (increase wheel size)
 - 2025-9-26 - Day two of Fixing mobility issues
+- 2025-10/7 - Creating Autononomus Mode for robot.
