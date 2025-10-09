@@ -17,7 +17,6 @@
 - **James Stacey** – Driver / Builder
 - **Noah Gonzalez** – Builder
 - **Alan Huang** – Assistant programmer
-- **ChatGpt** - ???
 ---
 
 # Mission:
