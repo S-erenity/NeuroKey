@@ -68,4 +68,4 @@ Parts List
 - 2025-9-26 - Day two of fixing mobility issues.
 - 2025-10-7 - Started working on an autonomus driving mode for Typo. Increased motor RPM from 200 to 600.
 - 2025-10-9 - Autonomus code now partially works. (Discovered issues with the tracks).
-- 2025-10-10 - Day three of working on the autonomus driving mode.
+- 2025-10-10 - 
