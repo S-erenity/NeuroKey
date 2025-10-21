@@ -51,9 +51,14 @@ Parts List
 ```
 # Images:
 ---
-| <kbd><img src="images/IMG_6245.jpeg" alt="Chassis Build Plan" width="400"></kbd> |
-|:--:|
-| **Chassis Build Plan** |
+
+| <kbd><img src="images/IMG_6245.jpeg" alt="Chassis Build Plan" width="400"></kbd> | <kbd><img src="images/BLUEPRINT.png" alt="Clamp/Claw Blueprint" width="400"></kbd> |
+|:--:|:--:|
+| **Chassis Build Plan** | **Clamp/Claw Blueprint** |
+
+---
+
+
 ---
 
 **Updates log:**
