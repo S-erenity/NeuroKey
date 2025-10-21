@@ -68,5 +68,16 @@ Parts List
 - 2025-9-26 - Day two of fixing mobility issues.
 - 2025-10-7 - Started working on an autonomus driving mode for Typo. Increased motor RPM from 200 to 600.
 - 2025-10-9 - Autonomus code now partially works. (Discovered issues with the tracks).
-- 2025-10-14 - Test Run on 1:45
-- 2025-10-21 - 
+- 2025-10-14 - Testing Autonomus code 1:45
+- 2025-10-21 - Stage 1 of creating the actual robot. Concluded the robot's design.
+
+
+
+
+
+
+
+
+
+
+In 1943, Three monkeys sat on a tree near the battlefield. The first monkey was spotting for danger,the second monkey was sniping, and the third monkey was supplying ammunition. The first monkey suddenly spotted a MT-13 Tank driving in the distance. "FIRE!", said the monkey. The second monkey pulled the trigger and fired a 13mm bullet onto the tank's turret, but it deflected away, leaving a faint scratch. "Fuck." said the spotting monkey. "Go hide right now." All of the monkeys scrambled deep into the tree leaves. But the tank already spotted the movement. It's turret slowly rotated towards the tree. Just about the tank fired, a anti-vehicle rocket was fired within the trees but it missed the tank by a few inches. The tank then fired, exploding the tree into pieces and launching the monkeys into the air. The monkeys landed on the ground, severely injuring them. The ammunition monkey had it's leg completely blasted off and was quickly bleeding out. The monkey yelled "HELP MY LEG IS BLEEDING OUT!" but the other monkeys did not give a shit. The other monkeys rose up with half of their bones broken and ran towards the tank. The spotting monkey pulled out a grenade and stuffed it inside the tank barrel. Just as the monkey was about to celebrate, the tank suddenly fired too, exploding itself along with the monkey. The last monkey said "fucking bullshit." The sniper monkey slowly limped away into the distance...
