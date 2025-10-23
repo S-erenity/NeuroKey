@@ -76,5 +76,5 @@ Parts List
 - 2025-10-14 - Tested Autonomus code at 1:45. Decreased motor RPM from 600 to 200.
 - 2025-10-21 - Stage 1 of creating the actual robot. Created the robot's design.
 - 2025-10-23 - Stage 2 of creating the actual robot.
-- 2027-57-126 - Stage 0.06% of adding 0.6* degrees to the 0.006% of the tracks
+- 2027-57-126 - Stage 0.06% of adding 0.6% degrees to the 0.006% of the tracks
 
