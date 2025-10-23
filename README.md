@@ -16,7 +16,7 @@
 - **George Huang** – Github Repo Manager / Programmer
 - **James Stacey** – Driver / Builder
 - **Noah Gonzalez** – Builder
-- **Alan Huang** – Assistant builder of Assisting the builder of assistanting the build for assisting
+- **Alan Huang** – Tester
 ---
 
 # Mission:
