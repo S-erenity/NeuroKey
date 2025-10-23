@@ -16,7 +16,7 @@
 - **George Huang** – Github Repo Manager / Programmer
 - **James Stacey** – Driver / Builder
 - **Noah Gonzalez** – Builder
-- **Alan Huang** – Zorr.pro farmer
+- **Alan Huang** – Assistant Programmer
 ---
 
 # Mission:
