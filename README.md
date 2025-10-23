@@ -74,4 +74,6 @@ Parts List
 - 2025-10-7 - Started working on an autonomus driving mode for Typo. Increased motor RPM from 200 to 600.
 - 2025-10-9 - Autonomus code now partially works. (Discovered issues with the tracks).
 - 2025-10-14 - Tested Autonomus code at 1:45. Decreased motor RPM from 600 to 200.
-- 2025-10-21 - Stage 1 of creating the actual robot. Concluded the robot's design.
+- 2025-10-21 - Stage 1 of creating the actual robot. Created the robot's design.
+- 2025-10-23 - Stage 2 of creating the actual robot.
+
