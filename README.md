@@ -73,8 +73,8 @@ Parts List
 - 2025-9-26 - Day two of fixing mobility issues.
 - 2025-10-7 - Started working on an autonomus driving mode for Typo.
 - 2025-10-9 - Autonomus code now partially works. (Discovered issues with the tracks).
-- 2025-10-14 - Tested Autonomus code at 1:45. Decreased motor RPM from 600 to 200.
-- 2025-10-21 - Stage 1 of creating the actual robot. Created the robot's design.
-- 2025-10-23 - Stage 2 of creating the actual robot.
-- 2027-57-126 - Stage 0.06 of adding 0.6 degrees to the 0.006% of the tracks
+- 2025-10-14 - Tested Autonomus code at 1:45. Decreased motor RPM from 600 to 200. (successful)
+- 2025-10-21 - Initiated work on a claw attatchment for Typo
+- 2025-10-23 - Created a prepatory source code for claw attatchment. Began work on building.
+- 2027-10-28 - 
 
