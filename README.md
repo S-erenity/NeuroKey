@@ -76,5 +76,6 @@ Parts List
 - 2025-10-14 - Tested Autonomus code at 1:45. Decreased motor RPM from 600 to 200. (successful)
 - 2025-10-21 - Initiated work on a claw attatchment for Typo
 - 2025-10-23 - Created a prepatory source code for claw attatchment. Began work on building.
-- 2025-10-28 - Built the neck for the claw and started assembling the actual claw. 
+- 2025-10-28 - Built the neck for the claw and started assembling the actual claw.
+- 2025-10-30 - Finished actually assembly for claw, started testing.
 
