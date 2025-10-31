@@ -78,5 +78,5 @@ Parts List
 - 2025-10-23 - Created a prepatory source code for claw attatchment. Began work on building.
 - 2025-10-28 - Built the neck for the claw and started assembling the actual claw.
 - 2025-10-30 - Finished actually assembly for claw, started testing. Photos of work in Images tab
-- 2025-10-31 - Reworking source code for claw attachment. 
+- 2025-10-31 - Reworking source code for claw attachment.
 
