@@ -80,3 +80,7 @@ Parts List
 - 2025-10-30 - Finished actually assembly for claw, started testing. Photos of work in Images tab
 - 2025-10-31 - Reworking source code for claw attachment.
 
+** D **
+```ansi
+- 2025
+
