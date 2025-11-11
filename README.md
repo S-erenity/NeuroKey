@@ -79,5 +79,6 @@ Parts List
 - 2025-10-28 - Built the neck for the claw and started assembling the actual claw.
 - 2025-10-30 - Finished actually assembly for claw, started testing. Photos of work in Images tab
 - 2025-10-31 - Reworked source code for claw attachment.
-- 2025-10-6 - Testing the robot for issues.
+- 2025-11-6 - Claw attachment test unsuccessful. Claw tension issues.
+- 2025-11-11 - Final test day.
 
