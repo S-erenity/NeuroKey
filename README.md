@@ -300,7 +300,7 @@ bro why u still scrolling down
 
 
 
->   :     )
+long
 
 
 
