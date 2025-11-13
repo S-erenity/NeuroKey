@@ -82,8 +82,7 @@ Parts List
 - 2025-11-6 - Claw attachment test unsuccessful. Claw tension issues.
 - 2025-11-11 - Final test day.
 - 2025-11-13 - Preparing code for capture the flag event. Interntia sensor has been chosen.
-```ansi
-
+```
 
 
 
