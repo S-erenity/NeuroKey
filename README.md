@@ -84,7 +84,7 @@ Parts List
 - 2025-11-13 - Preparing code for capture the flag event. Interntia sensor has been chosen.
 ```
 ``` ansi
-
+nothing down there btw
 
 
 
