@@ -83,4 +83,5 @@ Parts List
 - 2025-11-11 - Final test day.
 - 2025-11-13 - Preparing code for capture the flag event. Interntia sensor has been chosen.
 - 2025-11-14 - Choice of sensor has been altered to vison sensor.
-- 2025-11-18 - Robot failed flag event. Too many tread issues.
+- 2025-11-18 - Massive technical failure duirng capture the flag event. Considered using wheels instead of treads.
+- 2025-11-20 - Increased maximum bot speed to 100% (40% before) as requested.
