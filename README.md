@@ -86,4 +86,5 @@ Parts List
 - 2025-11-18 - Massive technical failure duirng capture the flag event. Considered using wheels instead of treads.
 - 2025-11-20 - Increased maximum bot speed to 100% (40% before) as requested.
 - 2025-11-25 - Finsihed wiring new sensor, implimeted vision sensor instead as our first choice
-               gyro sensor was not avialable. Image of instaleld sensor in images tab. 
+
+
