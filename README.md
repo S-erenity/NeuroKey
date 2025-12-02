@@ -85,6 +85,10 @@ Parts List
 - 2025-11-14 - Choice of sensor has been altered to vison sensor.
 - 2025-11-18 - Massive technical failure duirng capture the flag event. Considered using wheels instead of treads.
 - 2025-11-20 - Increased maximum bot speed to 100% (40% before) as requested.
-- 2025-11-25 - Finsihed wiring new sensor, implimeted vision sensor instead as our first choice
+- 2025-11-25 - Finsihed wiring new sensor, implimeted vision sensor instead as our first choice.
+[Vision sensor capabilities: autmatically aligns center with the closest object in the sensor's peripheral vision,
+automating the time-consuming process of having to align the bot every time we want to manipulate an object.]
+
+
 
 
