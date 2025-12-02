@@ -88,9 +88,8 @@ Parts List
 - 2025-11-25 - Finsihed wiring new sensor, implimeted vision sensor instead as our first choice.
 [Vision sensor capabilities: autmatically aligns center with the closest object in the sensor's peripheral vision,
 automating the time-consuming process of having to align the bot every time we want to manipulate an object.]
----
 
-**Updates log:**
+
 ```ansi
 d
 
